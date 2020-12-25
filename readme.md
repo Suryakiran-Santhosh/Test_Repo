@@ -9,7 +9,7 @@ After installing Git, I am checking to see if everything is working properly. I 
 
 4.) created a markdown file called readme.md
 
-5.) command prompt: git add readme.md 
+5.) command prompt: git add readme.md
 
         -> I have added the readme.md file into the staging area
         
